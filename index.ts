@@ -1,5 +1,5 @@
 import { APIType } from './src/types';
 
-const createTypesForAPI = (apiDefenition: string, apiType: APIType) => {
-    
+const createTypesForAPI = (apiSpecificationURL: string, apiType: APIType) => {
+
 }
